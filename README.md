@@ -4,7 +4,7 @@ This script takes a website name as input and returns its dns records
 
 # Requirements to run this file: 
 
-1. Install the DNS library--dnspython via your terminal OR via Github:
+1. Install the python DNS library--dnspython via your terminal OR via Github:
 
 pip install dnspython 
 
