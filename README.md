@@ -4,7 +4,7 @@ This script takes a website name as input and returns its dns records
 
 # Requirements to run this file: 
 
-1. Install the DNS library--dnspython via your terminal OR via Github:
+1. Install the python DNS library--dnspython via your terminal OR via Github:
 
 pip install dnspython 
 
@@ -22,6 +22,5 @@ python dns_record.py
 3. The program will ask for a website:
 
 You can give any wesbite name, for example: https://www.google.com 
-
 
 
