@@ -10,14 +10,18 @@ pip install dnspython
 
 git clone https://github.com/rthalley/dnspython.git 
 
-locate dns directory in dnspython directory and copy dns directory into your python installation folder--site packages[Lib] directory
+locate dns directory in the dnspython directory and copy dns directory into your python installation folder--site packages[Lib] directory
 
-2. The program will ask for a website:
+delete the dnspython directory
+
+
+2. Type the following command to run the file:
+
+python dns_record.py 
+
+3. The program will ask for a website:
 
 You can give any wesbite name, for example: https://www.google.com 
 
 
-3. Type the following command to run the file:
-
-python dns_record.py 
 
