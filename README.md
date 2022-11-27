@@ -19,6 +19,7 @@ delete the dnspython directory
 
 python dns_record.py 
 
+
 3. The program will ask for a website:
 
 You can give any wesbite name, for example: https://www.google.com 
