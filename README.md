@@ -1,6 +1,6 @@
-# DNS Record 
+# Python Mini Project -- DNS Records
 
-This script takes a website name as input and returns its dns records
+This script takes a website name as input and returns its dns records.
 
 # Requirements to run this file: 
 
